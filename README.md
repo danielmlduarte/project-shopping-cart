@@ -15,14 +15,14 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
   * Entre na pasta do repositório que você acabou de clonar:
     * `cd sd-07-project-shopping-cart`
 
-2. Crie uma branch a partir da branch `master`
-  * Verifique que você está na branch `master`
+2. Crie uma branch a partir da branch `main`
+  * Verifique que você está na branch `main`
     * Exemplo: `git branch`
-  * Se não estiver, mude para a branch `master`
-    * Exemplo: `git checkout master`
+  * Se não estiver, mude para a branch `main`
+    * Exemplo: `git checkout main`
   * Agora, crie uma branch onde você vai guardar os `commits` do seu projeto
     * Você deve criar uma branch no seguinte formato: `nome-de-usuario-nome-do-projeto`
-    * Exemplo: `git checkout -b joaozinho-project-shopping-cart`
+    * Exemplo: `git checkout -b berin-project-shopping-cart`
 
 3. Quando fizer mudanças, adicione-as ao _stage_ do Git e faça um `commit`
   * Verifique que as mudanças ainda não estão no _stage_
@@ -37,16 +37,16 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
         * `git status` (deve aparecer uma mensagem tipo _nothing to commit_ )
 
 4. Adicione a sua branch com o novo `commit` ao repositório remoto
-  * Usando o exemplo anterior: `git push -u origin joaozinho-project-shopping-cart`
+  * Usando o exemplo anterior: `git push -u origin berin-project-shopping-cart`
 
 5. Crie um novo `Pull Request` _(PR)_
-  * Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/tryber/sd-07-project-shopping-cart/pulls)
+  * Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/danielmlduarte/project-shopping-cart/pulls)
   * Clique no botão verde _"New pull request"_
   * Clique na caixa de seleção _"Compare"_ e escolha a sua branch **com atenção**
   * Clique no botão verde _"Create pull request"_
   * Adicione uma descrição para o _Pull Request_, um título claro que o identifique, e clique no botão verde _"Create pull request"_
   * **Não se preocupe em preencher mais nada por enquanto!**
-  * Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-07-project-shopping-cart/pulls) e confira que o seu _Pull Request_ está criado
+  * Volte até a [página de _Pull Requests_ do repositório](https://github.com/danielmlduarte/project-shopping-cart/pulls) e confira que o seu _Pull Request_ está criado
 
 ---
 
