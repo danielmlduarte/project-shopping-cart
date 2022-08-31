@@ -11,9 +11,9 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
 ### ANTES DE COMEÇAR A DESENVOLVER:
 
 1. Clone o repositório
-  * `git clone https://github.com/tryber/sd-07-project-shopping-cart.git`.
+  * `git clone https://github.com/daniemlduarte/project-shopping-cart.git`.
   * Entre na pasta do repositório que você acabou de clonar:
-    * `cd sd-07-project-shopping-cart`
+    * `project-shopping-cart`
 
 2. Crie uma branch a partir da branch `main`
   * Verifique que você está na branch `main`
